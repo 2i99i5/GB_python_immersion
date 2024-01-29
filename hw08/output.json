@@ -1,0 +1,206 @@
+[
+    {
+        "parent": "./01",
+        "is_file": true,
+        "filename": "01_a.rtf",
+        "size": 0
+    },
+    {
+        "parent": "./01",
+        "is_file": true,
+        "filename": "01_b.rtf",
+        "size": 0
+    },
+    {
+        "parent": "./01",
+        "is_file": true,
+        "filename": "01_c.rtf",
+        "size": 0
+    },
+    {
+        "parent": "./01",
+        "is_file": true,
+        "filename": "01_d.rtf",
+        "size": 0
+    },
+    {
+        "parent": "./01",
+        "is_file": false,
+        "filename": "01_01",
+        "size": 21
+    },
+    {
+        "parent": "./01",
+        "is_file": false,
+        "filename": "01_02",
+        "size": 7
+    },
+    {
+        "parent": "./01",
+        "is_file": false,
+        "filename": "01_03",
+        "size": 0
+    },
+    {
+        "parent": "./01",
+        "is_file": false,
+        "filename": "sem08",
+        "size": 11381
+    },
+    {
+        "parent": "./01\\01_01",
+        "is_file": true,
+        "filename": "01_01_a.rtf",
+        "size": 7
+    },
+    {
+        "parent": "./01\\01_01",
+        "is_file": true,
+        "filename": "01_01_b.rtf",
+        "size": 7
+    },
+    {
+        "parent": "./01\\01_01",
+        "is_file": false,
+        "filename": "01_01_01",
+        "size": 7
+    },
+    {
+        "parent": "./01\\01_01\\01_01_01",
+        "is_file": true,
+        "filename": "01_01_01_a.rtf",
+        "size": 7
+    },
+    {
+        "parent": "./01\\01_02",
+        "is_file": true,
+        "filename": "01_02_a.rtf",
+        "size": 7
+    },
+    {
+        "parent": "./01\\01_02",
+        "is_file": true,
+        "filename": "01_02_b.txt",
+        "size": 0
+    },
+    {
+        "parent": "./01\\01_03",
+        "is_file": false,
+        "filename": "01_03_01",
+        "size": 0
+    },
+    {
+        "parent": "./01\\01_03",
+        "is_file": false,
+        "filename": "01_03_02",
+        "size": 0
+    },
+    {
+        "parent": "./01\\01_03\\01_03_01",
+        "is_file": false,
+        "filename": "01_03_01_01",
+        "size": 0
+    },
+    {
+        "parent": "./01\\01_03\\01_03_02",
+        "is_file": true,
+        "filename": "01_03_02_a.txt",
+        "size": 0
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "csv04.py",
+        "size": 1401
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "data.json",
+        "size": 76
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "data.txt",
+        "size": 50
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "ids.csv",
+        "size": 36
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "ids.json",
+        "size": 354
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "ids.pickle",
+        "size": 134
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "json01.py",
+        "size": 810
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "json02.py",
+        "size": 1991
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "json03.py",
+        "size": 569
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "json2.py",
+        "size": 1993
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "new_ids.csv",
+        "size": 0
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "new_ids.json",
+        "size": 117
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "new_ids.pickle",
+        "size": 117
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "pickle05.py",
+        "size": 781
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "pickle06.py",
+        "size": 2952
+    },
+    {
+        "parent": "./01\\sem08",
+        "is_file": true,
+        "filename": "__init__.py",
+        "size": 0
+    }
+]
